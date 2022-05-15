@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/demonicbullies/static/css/main.e6c13ad2.css",
-    "main.js": "/demonicbullies/static/js/main.04e367dc.js",
+    "main.js": "/demonicbullies/static/js/main.acd40452.js",
     "static/js/787.a446362a.chunk.js": "/demonicbullies/static/js/787.a446362a.chunk.js",
     "static/media/puppy2.jpg": "/demonicbullies/static/media/puppy2.ca7f793fc64ceb0dc680.jpg",
     "static/media/puppy5.jpg": "/demonicbullies/static/media/puppy5.68ed40592a2882517ce3.jpg",
@@ -12,11 +12,11 @@
     "static/media/logo5.jpg": "/demonicbullies/static/media/logo5.ec440d6f31cffb0d6cd0.jpg",
     "index.html": "/demonicbullies/index.html",
     "main.e6c13ad2.css.map": "/demonicbullies/static/css/main.e6c13ad2.css.map",
-    "main.04e367dc.js.map": "/demonicbullies/static/js/main.04e367dc.js.map",
+    "main.acd40452.js.map": "/demonicbullies/static/js/main.acd40452.js.map",
     "787.a446362a.chunk.js.map": "/demonicbullies/static/js/787.a446362a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.04e367dc.js"
+    "static/js/main.acd40452.js"
   ]
 }
