@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/demonicbullies/static/css/main.4f64e558.css",
-    "main.js": "/demonicbullies/static/js/main.6166087a.js",
+    "main.js": "/demonicbullies/static/js/main.5d66497d.js",
     "static/js/787.a446362a.chunk.js": "/demonicbullies/static/js/787.a446362a.chunk.js",
     "static/media/slide2.jpg": "/demonicbullies/static/media/slide2.29017868ac0f7157b95b.jpg",
     "static/media/slide4.jpg": "/demonicbullies/static/media/slide4.3eadee0dde3e2d42767f.jpg",
     "static/media/puppy.jpg": "/demonicbullies/static/media/puppy.2d7014abaacf3f86d179.jpg",
     "static/media/slide1.jpg": "/demonicbullies/static/media/slide1.6c79b403b9f59822de4f.jpg",
     "static/media/slide3.jpg": "/demonicbullies/static/media/slide3.3661368f504b106b46fc.jpg",
+    "static/media/puppynotclean.jpg": "/demonicbullies/static/media/puppynotclean.9b0a41cee00d8338fd27.jpg",
     "static/media/puppy2.jpg": "/demonicbullies/static/media/puppy2.f8cbdef31b371c9f52bd.jpg",
     "static/media/success2.jpg": "/demonicbullies/static/media/success2.4a8e53da22b43d84feb6.jpg",
     "static/media/logo5.jpg": "/demonicbullies/static/media/logo5.ec440d6f31cffb0d6cd0.jpg",
@@ -16,11 +17,11 @@
     "static/media/success3.jpg": "/demonicbullies/static/media/success3.52b069af208098295553.jpg",
     "index.html": "/demonicbullies/index.html",
     "main.4f64e558.css.map": "/demonicbullies/static/css/main.4f64e558.css.map",
-    "main.6166087a.js.map": "/demonicbullies/static/js/main.6166087a.js.map",
+    "main.5d66497d.js.map": "/demonicbullies/static/js/main.5d66497d.js.map",
     "787.a446362a.chunk.js.map": "/demonicbullies/static/js/787.a446362a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f64e558.css",
-    "static/js/main.6166087a.js"
+    "static/js/main.5d66497d.js"
   ]
 }
